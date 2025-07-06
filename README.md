@@ -131,6 +131,6 @@ Want to be on the list? Just follow the [guide](CONTRIBUTING.md) and make your P
 
 ## ❤️ Maintained by
 
-**[Gaurav Solanki](https://github.com/gouravslnk)**
+**[Gourav Solanki](https://github.com/gouravslnk)**
 
 We're glad you're here — this is your first step into open source 🚀
